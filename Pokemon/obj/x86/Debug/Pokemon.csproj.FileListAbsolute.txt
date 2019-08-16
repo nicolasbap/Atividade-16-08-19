@@ -1,0 +1,8 @@
+C:\Users\33335\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\33335\Desktop\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\33335\Desktop\Pokemon\Pokemon\obj\x86\Debug\Pokemon.exe
+C:\Users\33335\Desktop\Pokemon\Pokemon\obj\x86\Debug\Pokemon.pdb
+U:\Danilo\Pokemon\Pokemon\obj\x86\Debug\Pokemon.exe
+U:\Danilo\Pokemon\Pokemon\obj\x86\Debug\Pokemon.pdb
+U:\Danilo\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+U:\Danilo\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
